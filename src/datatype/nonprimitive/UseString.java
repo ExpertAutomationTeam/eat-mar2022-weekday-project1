@@ -11,7 +11,7 @@ public class UseString {
 
         //+ sign in java
         //+ sign does concatenation with strings
-        String str2 = "classandobject.Hello";
+        String str2 = "classobjectmethod.Hello";
         System.out.println(str2 + " " + str);
 
         //+ does math with numbers

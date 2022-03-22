@@ -11,13 +11,13 @@ public class UserInput {
 
         String name = userInput.nextLine();
 
-        System.out.println("classandobject.Hello "+name+", welcome to java class!!!");
+        System.out.println("classobjectmethod.Hello "+name+", welcome to java class!!!");
 
         System.out.println("enter your number: ");
 
         int number = userInput.nextInt();
 
-        System.out.println("classandobject.Hello number "+number+", welcome to java class!!!");
+        System.out.println("classobjectmethod.Hello number "+number+", welcome to java class!!!");
 
     }
 }
