@@ -1,0 +1,24 @@
+before pushing the code:
+cd <location>
+
+push code for the first time:
+git init
+git remote add origin <url>
+git add .
+git commit -m "message"
+git push -u origin master
+
+make progress:
+git add .
+git commit -m "message"
+git push
+
+clone existing code:
+git clone <url>
+
+update local code:
+git pull
+
+useful commands:
+what git thinks:
+git status
