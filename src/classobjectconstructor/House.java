@@ -1,7 +1,7 @@
 package classobjectconstructor;
 
 public class House {
-    //House class blueprint
+    //Human class blueprint
 
     //class properties
 

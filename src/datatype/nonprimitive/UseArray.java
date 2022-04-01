@@ -20,6 +20,6 @@ public class UseArray {
         array[3] = 5;
         array[4] = 2;
 
-
+        System.out.println(array);
     }
 }

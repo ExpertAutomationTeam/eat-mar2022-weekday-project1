@@ -14,7 +14,7 @@ public class TestHouse {
         atikurHouse.bathRoom();
         atikurHouse.livingRoom();
 
-        House zaberHouse = new House("Tree House", 2331);
+        House zaberHouse = new House("Tree Human", 2331);
 
         zaberHouse.livingRoom();
         zaberHouse.room();

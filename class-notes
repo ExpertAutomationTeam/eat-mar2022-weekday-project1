@@ -1,0 +1,9 @@
+package purpose in java:
+grouping
+accessibility
+
+oops concepts:
+encapsulation: data
+inheritance: class
+polymorphism: method
+abstraction: classes, methods, implementation
